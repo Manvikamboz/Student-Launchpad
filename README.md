@@ -3,6 +3,8 @@ once the backend problem is solved i will be uploading that part also....
 
 you can see the frontend video which is upload in the repo .... 
 
+The project is made by vibe coding 
+
 🚀 Student Startup Launchpad
 
 Student Startup Launchpad is a Virtual Startup Incubator Platform where students can share, discuss, and grow their ideas within communities. This project provides students with real-world exposure to collaboration, funding simulation (coins system), and community-driven innovation.
